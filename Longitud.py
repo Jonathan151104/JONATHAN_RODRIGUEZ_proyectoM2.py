@@ -1,3 +1,4 @@
+#Solo prueba
 #Aquí le estemos pedimos una palabra al usuario y se aguarda en la variable (frase) de tipo de string.
 frase = input("Ingresa una palabra, por favor: ")
 
