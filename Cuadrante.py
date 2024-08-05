@@ -6,7 +6,7 @@ y = int(input("Ingresa el valor, de la segunda coordenada en y: "))
 
 #La condicón muestra si el eje (x) y el eje (y), son iguales a cero, muestre el siguiente mensaje.
 if x == 0 and y == 0 :
-    print("Inicie de nuevo, los cuadrantes tienen que ser mayor a 0")
+    print("Inicie de nuevo, los cuadrantes tienen que ser mayor o menor a 0")
 
 #Si no que el eje (x), sea igual a 0 y el eje (y), tiene un valor. Muestra el siguiente mensaje.
 elif x == 0 :
