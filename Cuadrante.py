@@ -10,11 +10,11 @@ if x == 0 and y == 0 :
 
 #Si no que el eje (x), sea igual a 0 y el eje (y), tiene un valor. Muestra el siguiente mensaje.
 elif x == 0 :
-    print("El (eje x) nesecita un valor mayor que 0")
+    print("El (eje x) nesecita un valor mayor o menor que 0")
 
 #Ahora bien el eje (y), sea igual a 0 y el eje (x), tiene un valor. Muestra el siguiente mensaje.
 elif y == 0: 
-    print("El (eje y) nesecita un valor mayor que 0")
+    print("El (eje y) nesecita un valor mayor o mener que 0")
 
 #Aquí decide si el eje (x) y el eje (y), tiene un valor mayor a 0, muestra el siguiente mensaje.
 elif x > 0 and y > 0 :
